@@ -26,5 +26,4 @@ eureka:
       defaultZone: http://eureka-test.com:7001/eureka/
  
 
-t
 #  请保存为UTF-8格式
